@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Teaching the Semantic Web Outdoors"
 date: "2012-09-07"
 categories: 

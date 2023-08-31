@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Trip Report: ESWC 2013"
 date: "2013-06-03"
 categories: 

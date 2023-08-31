@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Romana Pernisch is joining us as a Postdoc."
 date: "2021-08-25"
 ---

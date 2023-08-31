@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Chris Welty: \"Inside the mind of Watson\""
 date: "2011-06-20"
 ---

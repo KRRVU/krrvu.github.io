@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Dimitrios Alivanistos and Nikos Kondylidis joined us!"
 date: "2020-10-21"
 ---

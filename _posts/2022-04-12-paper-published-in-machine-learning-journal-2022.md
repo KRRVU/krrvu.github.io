@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Paper published in Machine Learning Journal (2022)"
 date: "2022-04-12"
 ---

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Intro for Beyond Impact"
 date: "2011-05-06"
 categories: 

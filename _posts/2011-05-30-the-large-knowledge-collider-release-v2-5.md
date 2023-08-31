@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "The Large Knowledge Collider release V2.5"
 date: "2011-05-30"
 categories: 

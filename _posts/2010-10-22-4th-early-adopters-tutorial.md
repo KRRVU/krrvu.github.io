@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "4th Early Adopters Tutorial"
 date: "2010-10-22"
 categories: 

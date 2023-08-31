@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Andreas Sauter is joining  KRR Lab!"
 date: "2021-11-04"
 ---

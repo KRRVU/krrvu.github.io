@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Pourquoi utiliser le Web de données?"
 date: "2013-01-29"
 categories: 

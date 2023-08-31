@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "LarKC Platform v2.0 released"
 date: "2011-01-03"
 categories: 

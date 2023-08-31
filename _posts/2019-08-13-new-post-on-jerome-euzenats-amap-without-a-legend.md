@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "New post on Jerome Euzenat's \"a map without a legend\""
 date: "2019-08-13"
 ---

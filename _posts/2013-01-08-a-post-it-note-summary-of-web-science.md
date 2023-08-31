@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "A post-it note summary of web science"
 date: "2013-01-08"
 categories: 

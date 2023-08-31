@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Fast Graph Kernels for RDF"
 date: "2013-07-19"
 categories: 

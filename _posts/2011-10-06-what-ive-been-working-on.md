@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "What I’ve been working on…"
 date: "2011-10-06"
 categories: 

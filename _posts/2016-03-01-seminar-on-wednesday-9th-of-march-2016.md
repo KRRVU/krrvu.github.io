@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Seminar on Wednesday 9th of March 2016"
 date: "2016-03-01"
 categories: 

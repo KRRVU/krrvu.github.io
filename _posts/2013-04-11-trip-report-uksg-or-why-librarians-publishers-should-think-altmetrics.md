@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Trip Report: UKSG (or why librarians & publishers should think altmetrics)"
 date: "2013-04-11"
 categories: 

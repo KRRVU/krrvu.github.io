@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Zhisheng Huang uses AI to prevent suicides"
 date: "2019-09-08"
 ---

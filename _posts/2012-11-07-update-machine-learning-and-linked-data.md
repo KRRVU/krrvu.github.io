@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Update: Machine Learning and Linked Data"
 date: "2012-11-07"
 categories: 

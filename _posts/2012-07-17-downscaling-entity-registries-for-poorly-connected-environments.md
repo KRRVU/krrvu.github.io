@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Downscaling Entity Registries for Poorly-Connected Environments"
 date: "2012-07-17"
 categories: 

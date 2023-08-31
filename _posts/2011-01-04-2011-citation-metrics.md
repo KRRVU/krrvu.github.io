@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "2011 citation metrics…"
 date: "2011-01-04"
 categories: 

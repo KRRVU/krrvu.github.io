@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "KRR Lab is growing: Márk Adamik and Inès Blin"
 date: "2021-10-08"
 ---

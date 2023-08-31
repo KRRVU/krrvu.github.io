@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "4 Papers Accepted at ESWC 2021"
 date: "2021-04-29"
 ---

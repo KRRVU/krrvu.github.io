@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "The LarKC project movie"
 date: "2010-09-30"
 categories: 

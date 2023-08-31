@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Colliding Computer & Social Sciences at the VU"
 date: "2010-07-01"
 categories: 

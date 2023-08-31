@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "The Open PHACTS project – 1.5 years in"
 date: "2012-10-20"
 categories: 

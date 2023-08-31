@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Research Moneyball"
 date: "2013-03-29"
 categories: 

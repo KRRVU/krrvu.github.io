@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "3 Papers accepted in KRR 2020 for oral presentation."
 date: "2020-07-01"
 ---

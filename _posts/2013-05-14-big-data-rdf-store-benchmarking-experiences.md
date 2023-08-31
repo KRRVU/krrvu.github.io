@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Big Data RDF Store Benchmarking Experiences"
 date: "2013-05-14"
 categories: 

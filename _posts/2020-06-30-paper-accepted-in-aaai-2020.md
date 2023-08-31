@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Paper accepted in AAAI 2020"
 date: "2020-06-30"
 ---

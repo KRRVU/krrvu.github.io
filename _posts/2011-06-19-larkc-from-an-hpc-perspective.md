@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "LarKC from an HPC perspective"
 date: "2011-06-19"
 categories: 

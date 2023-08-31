@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "RedStore running on the XO"
 date: "2010-12-20"
 categories: 

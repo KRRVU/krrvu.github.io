@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Perspectives on the BSBM benchmarking effort"
 date: "2013-05-14"
 categories: 

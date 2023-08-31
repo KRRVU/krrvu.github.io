@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Best resource paper award in ESWC 2020"
 date: "2020-06-30"
 ---

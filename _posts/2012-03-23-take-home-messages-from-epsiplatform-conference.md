@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Take home messages from ePSIplatform Conference"
 date: "2012-03-23"
 categories: 

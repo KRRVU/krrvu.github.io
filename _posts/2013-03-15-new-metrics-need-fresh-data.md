@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "New metrics need fresh data"
 date: "2013-03-15"
 categories: 

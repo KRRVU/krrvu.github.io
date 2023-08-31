@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Probase: a peak in Microsoft’s Web-of-Data kitchen"
 date: "2011-03-23"
 categories: 

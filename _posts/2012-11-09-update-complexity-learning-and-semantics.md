@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Update: Complexity, Learning and Semantics"
 date: "2012-11-09"
 categories: 

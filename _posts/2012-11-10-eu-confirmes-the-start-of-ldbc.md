@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "EU confirmes the start of LDBC."
 date: "2012-11-10"
 categories: 

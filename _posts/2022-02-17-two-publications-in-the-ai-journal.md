@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Two publications in the AI journal"
 date: "2022-02-17"
 ---

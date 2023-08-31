@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "PhD programs as (team) talent incubators?"
 date: "2011-07-09"
 categories: 

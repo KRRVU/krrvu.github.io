@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Update: Linked Data Replication"
 date: "2012-11-07"
 categories: 

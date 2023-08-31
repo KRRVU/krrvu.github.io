@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "An Analysis of Science Blogs from 10 thousand feet"
 date: "2011-01-14"
 categories: 

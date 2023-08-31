@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "altmetrics11 wrap-up"
 date: "2011-06-28"
 categories: 

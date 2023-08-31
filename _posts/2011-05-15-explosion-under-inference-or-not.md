@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Explosion under inference (or not)"
 date: "2011-05-15"
 categories: 

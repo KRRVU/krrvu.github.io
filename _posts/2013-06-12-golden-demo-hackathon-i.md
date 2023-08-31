@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Golden Demo Hackathon I"
 date: "2013-06-12"
 categories: 

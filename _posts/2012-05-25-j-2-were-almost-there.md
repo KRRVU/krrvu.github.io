@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "J-2, we're almost there !"
 date: "2012-05-25"
 categories: 

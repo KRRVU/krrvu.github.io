@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "The WordPress 2012 Blog Summary for ThinkLinks"
 date: "2012-12-30"
 categories: 

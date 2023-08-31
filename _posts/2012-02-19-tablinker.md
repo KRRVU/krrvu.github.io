@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "TabLinker"
 date: "2012-02-19"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "RDF and Graph benchmarking project started: LDBC"
 date: "2012-11-12"
 categories: 

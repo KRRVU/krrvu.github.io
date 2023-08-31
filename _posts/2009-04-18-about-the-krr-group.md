@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "About the KR&R Group"
 date: "2009-04-18"
 ---

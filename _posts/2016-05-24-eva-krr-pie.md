@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "KR&R pie"
 date: "2016-05-24"
 ---

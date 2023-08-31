@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Provenance in the Wild #1"
 date: "2011-05-09"
 categories: 

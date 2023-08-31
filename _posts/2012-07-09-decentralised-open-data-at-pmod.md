@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Decentralised Open Data at PMOD"
 date: "2012-07-09"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Updates about SemanticXO"
 date: "2011-09-16"
 categories: 

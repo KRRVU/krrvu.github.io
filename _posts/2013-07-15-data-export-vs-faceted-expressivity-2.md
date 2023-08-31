@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Data export VS Faceted expressivity"
 date: "2013-07-15"
 categories: 

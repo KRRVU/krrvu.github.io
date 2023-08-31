@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "KRR to grow into two new groups: welcome L&R and KAI"
 date: "2022-07-10"
 ---

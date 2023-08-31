@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Web of Data Interpreter – A LarKC Spin-Off"
 date: "2011-03-21"
 categories: 

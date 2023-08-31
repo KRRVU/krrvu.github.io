@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Clustering activity for the XO"
 date: "2011-04-05"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Fair Trade Data"
 date: "2013-04-04"
 categories: 

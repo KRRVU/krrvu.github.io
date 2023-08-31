@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Is data sharing the privilege of a few?"
 date: "2011-10-27"
 categories: 

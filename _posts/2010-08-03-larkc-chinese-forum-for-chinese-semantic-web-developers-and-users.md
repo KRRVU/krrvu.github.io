@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "LarKC Chinese Forum for Chinese Semantic Web Developers and Users"
 date: "2010-08-03"
 categories: 

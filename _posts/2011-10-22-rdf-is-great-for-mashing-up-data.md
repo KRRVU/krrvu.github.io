@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "RDF is great for mashing up data"
 date: "2011-10-22"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "KRR works at ICT Open"
 date: "2022-04-05"
 ---

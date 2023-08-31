@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Dataviz with a Wii-U (continued)"
 date: "2014-01-14"
 categories: 

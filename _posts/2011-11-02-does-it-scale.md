@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Does it scale?"
 date: "2011-11-02"
 categories: 

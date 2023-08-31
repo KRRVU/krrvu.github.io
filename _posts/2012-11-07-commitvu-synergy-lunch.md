@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "COMMIT@VU Synergy Lunch"
 date: "2012-11-07"
 categories: 

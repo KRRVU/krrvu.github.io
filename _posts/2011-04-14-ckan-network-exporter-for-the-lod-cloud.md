@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "CKAN->network exporter for the LOD Cloud"
 date: "2011-04-14"
 categories: 

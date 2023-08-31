@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Chinese LarKC BooK"
 date: "2011-07-21"
 categories: 

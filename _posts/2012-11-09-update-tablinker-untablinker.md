@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Update: TabLinker & UnTabLinker"
 date: "2012-11-09"
 categories: 

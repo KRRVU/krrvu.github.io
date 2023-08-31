@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Science Research UvA-VU: Logic and Language"
 date: "2016-05-26"
 ---

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Paper accepted in IJCAI 2022"
 date: "2022-04-26"
 ---

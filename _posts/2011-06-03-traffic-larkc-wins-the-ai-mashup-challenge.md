@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Traffic LarKC wins the AI Mashup Challenge"
 date: "2011-06-03"
 categories: 

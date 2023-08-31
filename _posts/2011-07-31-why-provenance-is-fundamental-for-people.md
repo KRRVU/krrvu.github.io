@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Why provenance is fundamental for people"
 date: "2011-07-31"
 categories: 

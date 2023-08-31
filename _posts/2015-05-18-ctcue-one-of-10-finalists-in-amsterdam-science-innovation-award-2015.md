@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "CTcue one of 10 finalists in Amsterdam Science & Innovation Award 2015"
 date: "2015-05-18"
 categories: 

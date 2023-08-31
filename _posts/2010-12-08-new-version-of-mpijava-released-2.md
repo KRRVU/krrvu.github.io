@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "New version of mpiJava released"
 date: "2010-12-08"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Toekomst Kijken/Looking into the Future"
 date: "2012-12-07"
 categories: 

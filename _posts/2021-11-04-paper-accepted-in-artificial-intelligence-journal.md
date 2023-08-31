@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Paper accepted in Artificial Intelligence Journal"
 date: "2021-11-04"
 ---

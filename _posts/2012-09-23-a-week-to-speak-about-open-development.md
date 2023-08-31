@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "A week to speak about Open Development"
 date: "2012-09-23"
 categories: 

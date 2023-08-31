@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "About Data2Semantics"
 date: "2011-09-06"
 categories: 

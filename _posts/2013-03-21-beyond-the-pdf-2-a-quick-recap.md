@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Beyond the PDF 2 – A Quick Recap"
 date: "2013-03-21"
 categories: 

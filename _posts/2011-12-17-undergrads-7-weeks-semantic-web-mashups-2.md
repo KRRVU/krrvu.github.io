@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Undergrads + 7 weeks = Semantic Web Mashups"
 date: "2011-12-17"
 categories: 

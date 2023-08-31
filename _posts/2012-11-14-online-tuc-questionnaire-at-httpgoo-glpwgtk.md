@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Online TUC questionnaire at http://goo.gl/PwGtK"
 date: "2012-11-14"
 categories: 

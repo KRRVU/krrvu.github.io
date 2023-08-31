@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Inauguration"
 date: "2010-12-15"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Laurens Rietveld graduated on 9th of March 2016"
 date: "2016-03-13"
 categories: 

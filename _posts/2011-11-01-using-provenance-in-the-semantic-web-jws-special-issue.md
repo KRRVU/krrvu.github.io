@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Using Provenance in the Semantic Web – JWS Special Issue"
 date: "2011-11-01"
 categories: 

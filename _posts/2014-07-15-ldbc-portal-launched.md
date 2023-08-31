@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "LDBC Portal Launched"
 date: "2014-07-15"
 ---

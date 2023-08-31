@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Stream Reasoning, Where We Got So Far"
 date: "2010-06-02"
 categories: 

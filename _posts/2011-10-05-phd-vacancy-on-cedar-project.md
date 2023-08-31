@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "PhD Vacancy on CEDAR project"
 date: "2011-10-05"
 ---

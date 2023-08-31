@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Behind the scenes of a Linked Data tutorial"
 date: "2012-11-27"
 categories: 

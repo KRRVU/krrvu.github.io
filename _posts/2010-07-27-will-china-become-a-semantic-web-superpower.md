@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Will China Become a Semantic Web Superpower?"
 date: "2010-07-27"
 categories: 

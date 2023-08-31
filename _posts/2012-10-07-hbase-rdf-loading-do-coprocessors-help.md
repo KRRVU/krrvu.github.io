@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "HBase RDF Loading – Do Coprocessors Help?"
 date: "2012-10-07"
 categories: 

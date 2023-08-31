@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Impressions over the Data-driven Visualization Symposium"
 date: "2014-06-02"
 categories: 

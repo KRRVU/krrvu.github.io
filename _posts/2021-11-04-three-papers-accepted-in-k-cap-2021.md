@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Three papers accepted in K-CAP 2021!"
 date: "2021-11-04"
 ---

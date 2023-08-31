@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Twitter plans to support annotations. Could be an interesting new stream of structured data"
 date: "2010-06-26"
 categories: 

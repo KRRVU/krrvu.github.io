@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Eliminating Friction"
 date: "2012-02-10"
 categories: 

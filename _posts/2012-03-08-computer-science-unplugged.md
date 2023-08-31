@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Computer Science Unplugged"
 date: "2012-03-08"
 categories: 

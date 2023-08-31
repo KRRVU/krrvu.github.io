@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "LDBC, A Socio-technical Perspective"
 date: "2012-11-30"
 categories: 

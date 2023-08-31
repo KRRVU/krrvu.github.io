@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "One year of PiLOD project"
 date: "2013-07-04"
 categories: 

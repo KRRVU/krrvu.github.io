@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Award winning project"
 date: "2010-06-30"
 categories: 

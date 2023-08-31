@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Successful Beyond the PDF 2 Conference"
 date: "2013-03-21"
 categories: 

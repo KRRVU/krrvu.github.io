@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Michael Cochez will be joining our group"
 date: "2019-08-13"
 ---

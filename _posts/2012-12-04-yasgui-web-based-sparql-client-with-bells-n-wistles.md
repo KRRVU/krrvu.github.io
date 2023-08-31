@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "YASGUI: Web-based SPARQL client with bells ‘n wistles"
 date: "2012-12-04"
 categories: 

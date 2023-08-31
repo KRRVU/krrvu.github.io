@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Data2Semantics on GitHub"
 date: "2011-11-21"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Discussing Open Data"
 date: "2012-03-17"
 categories: 

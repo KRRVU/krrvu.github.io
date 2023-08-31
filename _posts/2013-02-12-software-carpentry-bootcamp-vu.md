@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Software Carpentry Bootcamp @VU"
 date: "2013-02-12"
 categories: 

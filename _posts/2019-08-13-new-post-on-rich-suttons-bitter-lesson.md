@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "New post on Rich Sutton's \"Bitter Lesson\""
 date: "2019-08-13"
 ---

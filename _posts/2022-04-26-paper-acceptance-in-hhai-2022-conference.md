@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Paper acceptance in HHAI-2022 Conference"
 date: "2022-04-26"
 ---

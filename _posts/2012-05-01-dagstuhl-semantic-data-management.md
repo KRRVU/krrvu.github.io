@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Dagstuhl: Semantic Data Management"
 date: "2012-05-01"
 categories: 

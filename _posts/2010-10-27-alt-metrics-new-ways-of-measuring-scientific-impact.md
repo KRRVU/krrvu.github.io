@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "alt-metrics – new ways of measuring scientific impact"
 date: "2010-10-27"
 categories: 

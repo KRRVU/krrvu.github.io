@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Why don’t we use gaming consoles for data visualisation ?"
 date: "2013-09-11"
 categories: 

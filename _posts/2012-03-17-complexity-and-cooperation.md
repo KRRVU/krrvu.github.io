@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Complexity and cooperation"
 date: "2012-03-17"
 categories: 

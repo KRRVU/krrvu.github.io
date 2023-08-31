@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Helping scholars tell their stories using altmetrics"
 date: "2013-09-02"
 categories: 

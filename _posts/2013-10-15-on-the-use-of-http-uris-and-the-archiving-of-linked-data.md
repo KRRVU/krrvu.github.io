@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "On the use of HTTP URIs and the archiving of Linked Data"
 date: "2013-10-15"
 categories: 

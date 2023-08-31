@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "1 minute video about SemanticXO"
 date: "2012-02-28"
 categories: 

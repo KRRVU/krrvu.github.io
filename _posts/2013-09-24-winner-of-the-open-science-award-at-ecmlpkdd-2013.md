@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Winner of the Open Science Award at ECML/PKDD 2013!"
 date: "2013-09-24"
 categories: 

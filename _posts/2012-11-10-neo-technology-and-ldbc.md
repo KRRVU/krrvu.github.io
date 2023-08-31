@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Neo Technology and LDBC"
 date: "2012-11-10"
 categories: 

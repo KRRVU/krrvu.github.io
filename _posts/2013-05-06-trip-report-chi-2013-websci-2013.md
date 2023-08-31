@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Trip Report: CHI 2013 & WebSci 2013"
 date: "2013-05-06"
 categories: 

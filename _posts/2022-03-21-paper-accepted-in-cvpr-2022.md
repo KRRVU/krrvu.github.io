@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Paper accepted in CVPR 2022"
 date: "2022-03-21"
 ---

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "A boxology for systems that learn and reason"
 date: "2019-08-13"
 ---

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "ICT 4 Development course final presentations"
 date: "2013-02-08"
 categories: 

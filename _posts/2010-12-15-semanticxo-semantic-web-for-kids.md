@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "SemanticXO: Semantic Web for kids"
 date: "2010-12-15"
 categories: 

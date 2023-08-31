@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Making a toaster from scratch"
 date: "2011-05-16"
 categories: 

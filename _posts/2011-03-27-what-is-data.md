@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "What is data?"
 date: "2011-03-27"
 categories: 

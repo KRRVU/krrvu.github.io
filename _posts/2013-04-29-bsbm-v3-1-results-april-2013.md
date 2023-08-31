@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "BSBM V3.1 Results (April 2013)"
 date: "2013-04-29"
 categories: 

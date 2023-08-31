@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "New version of Hubble CDS prototype"
 date: "2012-05-29"
 categories: 

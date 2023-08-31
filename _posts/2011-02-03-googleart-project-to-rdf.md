@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "GoogleArt project to RDF"
 date: "2011-02-03"
 categories: 

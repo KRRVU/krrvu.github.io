@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Talk at ESCoP Summer School in Computational and Mathematical Modeling of Cognition"
 date: "2010-08-27"
 categories: 

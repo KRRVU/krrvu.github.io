@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Thoughts from the Dagstuhl Principles of Provenance Workshop"
 date: "2012-03-07"
 categories: 

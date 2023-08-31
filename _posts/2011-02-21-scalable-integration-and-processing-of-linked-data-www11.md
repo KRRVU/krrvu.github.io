@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Scalable Integration and Processing of Linked Data @ WWW’11"
 date: "2011-02-21"
 categories: 

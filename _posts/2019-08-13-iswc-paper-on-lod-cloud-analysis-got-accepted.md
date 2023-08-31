@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Paper on LOD cloud analysis got accepted at ISWC"
 date: "2019-08-13"
 ---

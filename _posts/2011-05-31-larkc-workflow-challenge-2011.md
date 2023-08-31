@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "LarKC Workflow Challenge 2011"
 date: "2011-05-31"
 categories: 

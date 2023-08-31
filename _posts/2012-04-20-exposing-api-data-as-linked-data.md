@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Exposing API data as Linked Data"
 date: "2012-04-20"
 categories: 

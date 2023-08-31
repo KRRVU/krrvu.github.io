@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "LarKC Pharma Workshop"
 date: "2011-02-16"
 categories: 

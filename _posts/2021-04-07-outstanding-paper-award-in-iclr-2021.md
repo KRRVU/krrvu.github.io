@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Outstanding Paper Award in ICLR 2021"
 date: "2021-04-07"
 ---

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "LarKC’s Botari wins the 2011 Semantic Web Challenge"
 date: "2011-10-28"
 categories: 

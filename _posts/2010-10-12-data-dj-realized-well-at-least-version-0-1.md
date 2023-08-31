@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Data DJ realized….well at least version 0.1"
 date: "2010-10-12"
 categories: 

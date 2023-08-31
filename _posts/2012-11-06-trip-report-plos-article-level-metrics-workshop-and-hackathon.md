@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Trip Report:  PLOS Article Level Metrics Workshop and Hackathon"
 date: "2012-11-06"
 categories: 

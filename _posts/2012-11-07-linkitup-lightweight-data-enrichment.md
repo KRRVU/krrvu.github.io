@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Linkitup: Lightweight Data Enrichment"
 date: "2012-11-07"
 categories: 

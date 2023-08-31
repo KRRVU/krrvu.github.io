@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Exploring Linked Data content through network analysis"
 date: "2011-11-27"
 categories: 

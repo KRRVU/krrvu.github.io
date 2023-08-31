@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Data2Semantics at ICTDelta 2011"
 date: "2011-11-21"
 categories: 

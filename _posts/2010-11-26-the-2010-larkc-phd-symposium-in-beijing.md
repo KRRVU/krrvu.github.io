@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "The 2010 LarKC PhD symposium in Beijing"
 date: "2010-11-26"
 categories: 

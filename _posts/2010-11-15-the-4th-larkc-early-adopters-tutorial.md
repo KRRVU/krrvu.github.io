@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "The 4th LarKC Early Adopters Tutorial"
 date: "2010-11-15"
 categories: 

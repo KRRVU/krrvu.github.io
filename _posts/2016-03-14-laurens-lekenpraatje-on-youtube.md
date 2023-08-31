@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Lauren's lekenpraatje on Youtube"
 date: "2016-03-14"
 categories: 

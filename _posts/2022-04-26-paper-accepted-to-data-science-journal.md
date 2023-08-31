@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Paper accepted to Data Science Journal"
 date: "2022-04-26"
 ---

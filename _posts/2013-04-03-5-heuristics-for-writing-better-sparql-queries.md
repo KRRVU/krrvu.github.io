@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "5 heuristics for writing better SPARQL queries"
 date: "2013-04-03"
 categories: 

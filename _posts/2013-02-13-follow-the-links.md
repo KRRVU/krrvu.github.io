@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Follow the links…"
 date: "2013-02-13"
 categories: 

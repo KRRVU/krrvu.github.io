@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "CLARIAH: 12M Euro for Digital Infrastructure for the Humanities"
 date: "2014-07-16"
 ---

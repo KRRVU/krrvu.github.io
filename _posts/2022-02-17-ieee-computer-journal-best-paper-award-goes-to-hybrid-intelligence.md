@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "IEEE Computer Journal Best paper award goes to Hybrid Intelligence"
 date: "2022-02-17"
 ---

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Thoughts from IPAW 2012"
 date: "2012-06-26"
 categories: 

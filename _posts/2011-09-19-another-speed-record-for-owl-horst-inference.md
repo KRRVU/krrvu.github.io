@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Another speed record for OWL Horst inference"
 date: "2011-09-19"
 categories: 

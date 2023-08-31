@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "5-stars Linked Open Data pays more than Open Data"
 date: "2012-08-01"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "KRR Team is growing"
 date: "2021-04-29"
 ---

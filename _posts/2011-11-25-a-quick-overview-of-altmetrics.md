@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "A Quick Overview of Altmetrics"
 date: "2011-11-25"
 categories: 

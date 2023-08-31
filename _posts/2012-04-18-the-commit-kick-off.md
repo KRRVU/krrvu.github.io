@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "The COMMIT Kick-off"
 date: "2012-04-18"
 categories: 

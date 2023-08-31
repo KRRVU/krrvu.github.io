@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "My talking head – on open access & social media"
 date: "2012-10-22"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "LDBC  Technical User Community, 3rd Meeting"
 date: "2013-11-27"
 categories: 

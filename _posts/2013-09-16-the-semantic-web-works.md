@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "The Semantic Web works!"
 date: "2013-09-16"
 ---

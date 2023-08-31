@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "COMMIT/ – the start of the story"
 date: "2012-03-21"
 categories: 

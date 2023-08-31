@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "LarKC in the World"
 date: "2011-03-31"
 categories: 

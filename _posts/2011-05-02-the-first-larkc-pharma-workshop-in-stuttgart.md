@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "The first LarKC Pharma Workshop in Stuttgart"
 date: "2011-05-02"
 categories: 

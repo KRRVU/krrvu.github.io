@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Data2Semantics wins COMMIT/ Valorization Award!"
 date: "2013-04-09"
 categories: 

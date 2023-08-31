@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "One SPARQL end point per dataset, One end point to query them all"
 date: "2011-01-07"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Provenance on the Web going Mainstream"
 date: "2010-11-30"
 categories: 

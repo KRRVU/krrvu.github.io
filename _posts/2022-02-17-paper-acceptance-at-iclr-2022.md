@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Paper acceptance at ICLR 2022"
 date: "2022-02-17"
 ---
