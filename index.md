@@ -5,6 +5,7 @@
 layout: page
 ---
 <!-- wp:paragraph {"fontSize":"medium"} -->
+![](krr-logo.png)
 <p class="has-medium-font-size">The&nbsp;<strong>KR&amp;R</strong> group at the VU existed from 1996 until 2022 and investigated modelling and representation of different forms of knowledge and reasoning, as found in a large variety of <a href="http://en.wikipedia.org/wiki/Artificial_intelligence">AI</a> systems. </p>
 <!-- /wp:paragraph -->
 
@@ -16,6 +17,7 @@ layout: page
 <div class="wp-block-columns has-2-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:paragraph {"fontSize":"large"} -->
 <p class="has-large-font-size">Knowledge in AI </p>
+
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

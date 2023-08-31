@@ -6,7 +6,7 @@ order: 2
 ---
 
 <!-- wp:paragraph -->
-<p>As of September 2022, the KRR group is going to continue as two separate groups, the Knowledge in Artificial Intelligence (KAI) group, and the <a href="https://krr.cs.vu.nl/learning-and-reasoning-lr/">Learning and Reasoning (L&amp;R)</a> group. This is a preliminary page of the new KAI group. </p>
+<p>As of September 2022, the KRR group is going to continue as two separate groups, <a href="https://kai.cs.vu.nl/">the Knowledge in Artificial Intelligence (KAI) group</a>, and the <a href="https://lr.cs.vu.nl/">Learning and Reasoning (L&amp;R)</a> group. This is a preliminary page of the new KAI group. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
