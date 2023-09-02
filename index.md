@@ -16,7 +16,8 @@ layout: page
 <!-- wp:columns -->
 <div class="wp-block-columns has-2-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:paragraph {"fontSize":"large"} -->
-<p class="has-large-font-size">Knowledge in AI </p>
+<!-- <p class="has-large-font-size">Knowledge in AI </p> -->
+<h3>Knowledge in AI</h3>
 
 <!-- /wp:paragraph -->
 
@@ -31,7 +32,9 @@ layout: page
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:paragraph {"fontSize":"large"} -->
-<p class="has-large-font-size">Learning and Reasoning</p>
+<!-- <p class="has-large-font-size">Learning and Reasoning</p> -->
+<h3>Learning and Reasoning</h3>
+
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

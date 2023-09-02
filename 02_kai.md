@@ -14,11 +14,11 @@ order: 2
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Long term <strong>mission</strong>: The mission of the KAI group is to contribute to a better understanding of the representation, acquisition, extraction and management of explicitly modelled knowledge and to facilitate and promote the usage of such knowledge in artificial intelligent agents.&nbsp;</p>
+<p>Long term mission: The mission of the KAI group is to contribute to a better understanding of the representation, acquisition, extraction and management of explicitly modelled knowledge and to facilitate and promote the usage of such knowledge in artificial intelligent agents.&nbsp;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>W</strong>e will do this by combining research from the fields of Knowledge Engineering and Knowledge Representation. Typical application areas are  Hybrid Intelligence (i.e. how knowledge helps to develop a collaborative, adaptive, explainable and responsible collaboration between artificial and human intelligence), or Semantic Systems, the Semantic Web. </p>
+<p>We will do this by combining research from the fields of Knowledge Engineering and Knowledge Representation. Typical application areas are  Hybrid Intelligence (i.e. how knowledge helps to develop a collaborative, adaptive, explainable and responsible collaboration between artificial and human intelligence), or Semantic Systems, the Semantic Web. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
