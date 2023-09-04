@@ -17,9 +17,6 @@ order: 3
   <li>
     <a href="https://www.cs.vu.nl/~frankh/">Frank van Harmelen</a>
   </li>
-  <li>
-    <a href="https://kmitd.github.io/ilaria/">Ilaria Tiddi</a>
-  </li>
   <li><a href="https://www.cochez.nl/">Michael Cochez</a></li>
   <li><a href="http://peterbloem.nl/">Peter Bloem</a></li>
   <li>Qing Hu</li>
@@ -41,6 +38,9 @@ order: 3
 <h3>Members to KAI</h3>
 
 <ul>
+  <li>
+    <a href="https://kmitd.github.io/ilaria/">Ilaria Tiddi</a>
+  </li>  
   <li>Stefan Schlobach</li>
   <li>Lise Stork</li>
   <li>Loan Ho</li>
