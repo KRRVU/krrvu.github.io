@@ -35,7 +35,7 @@ order: 3
   <li>Inès Blin</li>
   <li>Andreas Sauter</li>
   <li>Taraneh Younesian</li>
-  <li>Taewoon Kim</li>
+  <li><a href="https://taewoon.kim/">Taewoon Kim</a></li>
 </ul>
 
 <h3>Members to KAI</h3>
