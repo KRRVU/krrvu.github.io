@@ -27,8 +27,7 @@ order: 3
   <li>Zhisheng Huang</li>
   <li>Nikos Kondylidis</li>
   <li>
-    <a href="https://dimitrisalivas.github.io/">Dimitrios Alivanistos</a> (Now
-    at L&R)
+    <a href="https://dimitrisalivas.github.io/">Dimitrios Alivanistos</a>
   </li>
   <li>Al Idrissou</li>
   <li>Majid Mohammedi</li>
