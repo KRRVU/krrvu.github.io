@@ -22,7 +22,7 @@ order: 3
   <li>Qing Hu</li>
   <li>Xander Wilcke</li>
   <li>Zhisheng Huang</li>
-  <li>Nikos Kondylidis</li>
+  <li><a href="https://scholar.google.com/citations?user=ZX7iR4QAAAAJ&hl=en">Nikolaos Kondylidis</li></a>
   <li>
     <a href="https://dimitrisalivas.github.io/">Dimitrios Alivanistos</a>
   </li>
@@ -30,7 +30,7 @@ order: 3
   <li>Majid Mohammedi</li>
   <li>Jan-Christophe Kalo</li>
   <li>Inès Blin</li>
-  <li>Andreas Sauter</li>
+  <li><a href="http://sauter.at/">Andreas Sauter</a></li>
   <li>Taraneh Younesian</li>
   <li><a href="https://taewoon.kim/">Taewoon Kim</a></li>
 </ul>
