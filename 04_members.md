@@ -22,7 +22,7 @@ order: 3
   <li>Qing Hu</li>
   <li>Xander Wilcke</li>
   <li>Zhisheng Huang</li>
-  <li><a href="https://scholar.google.com/citations?user=ZX7iR4QAAAAJ&hl=en">Nikolaos Kondylidis</li></a>
+  <li><a href="https://scholar.google.com/citations?user=ZX7iR4QAAAAJ&hl=en">Nikolaos Kondylidis</a></li>
   <li>
     <a href="https://dimitrisalivas.github.io/">Dimitrios Alivanistos</a>
   </li>
